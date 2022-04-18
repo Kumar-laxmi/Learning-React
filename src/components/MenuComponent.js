@@ -39,8 +39,7 @@ class Menu extends Component{
     }
 
     componentDidMount(){
-        console.log('Menu component componentDidMounbt is invoked');
-        
+        console.log('Menu component componentDidMounbt is invoked'); 
     }
 }
 
